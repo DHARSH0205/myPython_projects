@@ -1,0 +1,3 @@
+''' what is pull , used to pull changes into local machine done in github''' 
+pull = "git pull"
+ins = "used to save changes that done in github to local machine"
